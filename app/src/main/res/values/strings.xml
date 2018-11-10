@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TutorialDemo</string>
+    <string name="tooltip_text_1">Начните с фотографий! Хорошие снимки лучше всего привлекают внимание к вашему товару.</string>
+    <string name="tooltip_text_2">Предложив выгодную цену, вы найдете больше покупателей, а значит больше заработаете!</string>
+    <string name="tooltip_text_3">Безопасная сделка позволяет продавать и покупать без необходимости личной встречи</string>
+</resources>
